@@ -1,0 +1,29 @@
+.navtext{
+    text-decoration : none;
+    color : black;
+    padding-right : 20px;
+}
+.box{
+    border-bottom: solid 3px rgb(190, 226, 255);
+}
+
+.imageposition{
+    position: relative;
+    right : -10em;
+    top : -4.5em;
+    }
+
+.maintext{
+    padding-left: px;
+}
+
+.container1{
+    display: flex;
+    justify-content: center;
+}
+.mainbox{
+    width: 1000px;
+}
+
+main {background-color : #DFF0DE
+    }
